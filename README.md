@@ -33,7 +33,11 @@ You can find it from kaggle [here](https://www.kaggle.com/datasets/khsamaha/avia
    - accident rates depending on weather condition
 
 3. *Data Visualization*
-   Interactive dashboard presenting the findings. key visualizations include:
+   -I created an interactive visualization using Tableau Public that provides insights into evaluating aircraft safety metrics. This dashboard allows users to explore various safety metrics associated with different aircraft dynamically.
+
+You can view the visualization here: [Interactive Dashboard for Evaluating Aircraft Safety Metrics](https://public.tableau.com/app/profile/caren.kyalo/viz/submit_17272715244940/InteractiveDashboardforEvaluatingAircraftSafetyMetrics)
+
+   -The Interactive dashboard presenting the findings. key visualizations include:
    -Accident frequency by aircraft make (bar chart)
    -Trends of accidents over time(line graph)
    Tools used for visualization (e.g., Tableau, Matplotlib).
